@@ -1,4 +1,4 @@
-##Docker for nginx
+Docker for nginx
 ==================== 
 
 ### Dockerfile
@@ -17,4 +17,4 @@ sudo docker build -t some-content-nginx .
 ```
 sudo docker run --name some-nginx -d -p 8080:80 some-content-nginx
 ```
-# nginx
+
